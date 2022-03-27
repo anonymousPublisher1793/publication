@@ -1,0 +1,16 @@
+ANN:
+-	Hidden_layer_sizes(25,2)
+RF
+-	N_estimators = 75
+-	Criterion: “entropy”
+SVM
+-	C: 1.5
+-	Epsilon: 0.125
+XGB RF 
+-	Booster: gbtree
+-	N_estimators: 70
+-	Learning rate: 0.17
+
+
+
+

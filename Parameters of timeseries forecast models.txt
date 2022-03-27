@@ -1,0 +1,11 @@
+GARCH
+-	Mean = “zero”
+-	P = 20
+-	Q= 20
+LSTM
+-	Units = 50
+-	Optimizer = “adam”
+-	Dropout = 0.2
+-	Dense = 1
+NNETAR
+-	Lags = 45
